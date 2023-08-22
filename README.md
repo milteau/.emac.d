@@ -21,7 +21,7 @@
 
 # 用纯文本组织生活
 
-##### 1/
+#### 1/
 
 “ I have been using org-mode as my personal information manager for years now.  I started small with just the default TODO and DONEkeywords.  I added small changes to my workflow and over time it evolved into what is described by this document.
 
